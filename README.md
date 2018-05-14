@@ -82,7 +82,7 @@ Few of them are here:
 	pastebinit // sudo apt install pastebinit 
 	snapcraft //sudo apt install snapcraft 
 	
-###Donation
+### Donation
 
 I have recieved emails from lots of people to put a donation via bitcoin or paypal, which simply implies that they are willing to make donation to project so I decided to put a paypal button , am not able to get Bitcoin integrated here for some reason will look for it in future , so right now you can use Paypal if you wana make any doantion and wana support this project 
 
